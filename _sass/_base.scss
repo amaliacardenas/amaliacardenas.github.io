@@ -216,25 +216,6 @@ header {
 
 
 
-// header video
-
-video#bgvid { 
-    position: fixed;
-    top: 50%;
-    left: 50%;
-    min-width: 100%;
-    min-height: 100%;
-    width: auto;
-    height: auto;
-    z-index: -100;
-    -ms-transform: translateX(-50%) translateY(-50%);
-    -moz-transform: translateX(-50%) translateY(-50%);
-    -webkit-transform: translateX(-50%) translateY(-50%);
-    transform: translateX(-50%) translateY(-50%);
-    background: url('../img/header.jpg') no-repeat;
-    background-size: cover; 
-}
-
 // homepage divs
 
 .dark-div {
@@ -387,6 +368,4 @@ body {
     -webkit-tap-highlight-color: $theme-dark;
 }
 
-
-// videos sort by category css
 
