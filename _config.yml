@@ -11,3 +11,5 @@ youtube_username: anybodycancode
 
 # Build settings
 markdown: kramdown
+permalinks: /:title
+
